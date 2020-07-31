@@ -1,0 +1,17 @@
+.header {
+	grid-area: h;
+	background-image: url(https://wallscloud.net/uploads/cache/1987247989/Текстура,_синий,_фон,_узор-1024x576-MM-90.jpg);
+}
+
+.header img {
+	width: 60px;
+}
+
+.loginBlock {
+	float: right;
+	color: white;
+}
+
+.loginBlock a {
+	color: white;
+}

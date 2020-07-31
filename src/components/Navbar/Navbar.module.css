@@ -1,0 +1,14 @@
+.nav {
+	grid-area: n;
+	background-image: url(https://i.pinimg.com/736x/04/83/fa/0483fa0889d108be94a9d81e7b1a8db1--santa-teresa-costa-rica.jpg);
+	padding: 20px;
+}
+
+.item a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.item a.active {
+	color: gold;
+}
